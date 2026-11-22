@@ -1,0 +1,4 @@
+package com.example.demoweb.controllers;
+
+public class StudentController {
+}
